@@ -7,7 +7,9 @@ description: >-
 
 # The Defence Protocols
 
-**9 Defence Protocols to be followed by everyone living in Kerala to avoid a healthcare system crash that then risks everyone's lives.**  
+**9 Defence Protocols to be followed by everyone living in Kerala to avoid a healthcare system crash that then risks everyone's lives.  
+  
+These may be updated frequently so keep checking.**  
 
 
 1. Spread Corona War Strategy awareness down to the last person.
